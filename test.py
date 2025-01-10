@@ -1,5 +1,4 @@
 import request
-from request import response
 
 def possitive_assert(response):
     code = response.status_code
